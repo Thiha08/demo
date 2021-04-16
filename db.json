@@ -1,7 +1,4 @@
 {
-  "totalFilteredRecords": 4,
-  "pageItems": [
-    {
       "id": 1,
       "accountNo": "0019-5848-0001",
       "externalId": "0019-5848-0001",
@@ -66,5 +63,3 @@
       "countryIsoCode": "MM",
       "tags": []
     }
-  ]
-}
