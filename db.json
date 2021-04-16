@@ -1,65 +1,65 @@
 {
-      "id": 1,
-      "accountNo": "0019-5848-0001",
-      "externalId": "0019-5848-0001",
-      "subStatus": {
-        "active": false,
-        "isDefault": false
-      },
-      "active": true,
-      "activationDate": [
-        2006,
-        9,
-        22
-      ],
-      "firstname": "Christina",
-      "lastname": "ခရစ္စတီးနာ",
-      "displayName": "Christina ခရစ္စတီးနာ",
-      "mobileNo": "09773786297",
-      "dateOfBirth": [
-        1966,
-        3,
-        31
-      ],
-      "gender": {
-        "id": 219,
-        "name": "Female",
-        "active": true,
-        "isDefault": false
-      },
-      "officeId": 19,
-      "officeName": "BR: Loikaw - လွိုင်ကော်",
-      "staffId": 5856,
-      "staffName": "တင်နု Tin Nu",
-      "timeline": {
-        "submittedOnDate": [
-          2006,
-          9,
-          22
-        ],
-        "submittedByUsername": "musoni",
-        "submittedByFirstname": "App",
-        "submittedByLastname": "Administrator",
-        "activatedOnDate": [
-          2006,
-          9,
-          22
-        ],
-        "activatedByUsername": "musoni",
-        "activatedByFirstname": "App",
-        "activatedByLastname": "Administrator"
-      },
-      "clientNonPersonDetails": {
-        "constitution": {
-          "active": false,
-          "isDefault": false
-        },
-        "mainBusinessLine": {
-          "active": false,
-          "isDefault": false
-        }
-      },
-      "isStaff": false,
-      "countryIsoCode": "MM",
-      "tags": []
+  "id": 1,
+  "accountNo": "0019-5848-0001",
+  "externalId": "0019-5848-0001",
+  "subStatus": {
+    "active": false,
+    "isDefault": false
+  },
+  "active": true,
+  "activationDate": [
+    2006,
+    9,
+    22
+  ],
+  "firstname": "Christina",
+  "lastname": "ခရစ္စတီးနာ",
+  "displayName": "Christina ခရစ္စတီးနာ",
+  "mobileNo": "09773786297",
+  "dateOfBirth": [
+    1966,
+    3,
+    31
+  ],
+  "gender": {
+    "id": 219,
+    "name": "Female",
+    "active": true,
+    "isDefault": false
+  },
+  "officeId": 19,
+  "officeName": "BR: Loikaw - လွိုင်ကော်",
+  "staffId": 5856,
+  "staffName": "တင်နု Tin Nu",
+  "timeline": {
+    "submittedOnDate": [
+      2006,
+      9,
+      22
+    ],
+    "submittedByUsername": "musoni",
+    "submittedByFirstname": "App",
+    "submittedByLastname": "Administrator",
+    "activatedOnDate": [
+      2006,
+      9,
+      22
+    ],
+    "activatedByUsername": "musoni",
+    "activatedByFirstname": "App",
+    "activatedByLastname": "Administrator"
+  },
+  "clientNonPersonDetails": {
+    "constitution": {
+      "active": false,
+      "isDefault": false
+    },
+    "mainBusinessLine": {
+      "active": false,
+      "isDefault": false
     }
+  },
+  "isStaff": false,
+  "countryIsoCode": "MM",
+  "tags": []
+}
